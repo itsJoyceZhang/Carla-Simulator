@@ -1,4 +1,4 @@
-# Carla_Simulator
+# Carla-Simulator
 ## manual_control_steeringwheel_rearview_mirror_HUD_record
 - Allows controlling the player vehicle with Logitech G29 Steeringwheel.
 - Allows changing weather, world maps.
