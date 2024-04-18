@@ -10,6 +10,10 @@
 ## Generate_walkers_vehivles_withTM
 - Facilitates the creation and behavior configuration of actors, including pedestrians and vehicles.
 - Provides a third-person perspective that tracks the player vehicle, offering a comprehensive view.
+![synchronous recording](https://github.com/itsJoyceZhang/Carla-Simulator/blob/main/images/synchronous%20recording.jpg)
 
 ## Show_save_recorder_file_info
 - Prints or saves driving behavior data (velocity, acceleration, physical control, position, etc.), traffic conditions, and events (collisions, etc.) to a text file.
+![show recording file](https://github.com/itsJoyceZhang/Carla-Simulator/blob/main/images/0417_2.png)
+
+
